@@ -10,7 +10,6 @@ I’m a full‐stack software engineer with a B.Tech background and a passion fo
 ## Personal Information  
 - **Education:** B.Tech  
 - **Contact:**  
-  - Phone: +91 7510034044  
   - Email: gupta13utkarsh@gmail.com  
   - LinkedIn: [utkarsh‑gupta‑1606a3137](https://www.linkedin.com/in/utkarsh-gupta-1606a3137)  
   - GitHub: [BV‑utkarsh](https://github.com/BV-utkarsh)  
